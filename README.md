@@ -24,8 +24,6 @@
 - Python
 - Java
 - Spring Boot 
-            <i class="devicon-spring-plain-wordmark colored"></i>
-          
 - Oracle
 - Sql Server
 - My SQL
