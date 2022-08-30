@@ -1,9 +1,9 @@
 <h1 align="center">
-  💻<br>Meus Projetos
+  💻<br>Meus Projetos 
 </h1>
 
 <h4 align="center">
-  Portfólio criado com o intuito de apresentar os projetos desenvolvidos ao decorrer dos seis semestres do curso de Banco de Dados - Fatec Jessen Vital.
+  Portfólio criado com o intuito de apresentar os projetos que ajudei a desenvolver durante o curso de Banco de Dados - Fatec Jessen Vital.
 </h4>
 
 <br></br>
@@ -11,7 +11,7 @@
 
 
 
-## 📚 Seções
+## 📚 Projetos Desenvolvidos:
 <h4 align="left"><a href="https://github.com/ZVIEWIL/portifolio1">PROJETO 1º SEMESTRE: Mapeador de Criminalidade ao Redor da FATEC</a></h4>
 <h4 align="left"><a href="https://github.com/ZVIEWIL/portifolio2">PROJETO 2º SEMESTRE: Gantt Chart</a></h4>
 <h4 align="left"><a href="https://github.com/ZVIEWIL/portifolio3">PROJETO 3º SEMESTRE: Cadastro Positivo</a></h4>
@@ -20,7 +20,7 @@
 <h4 align="left"><a href="https://github.com/ZVIEWIL/portifolio6">PROJETO 6º SEMESTRE: Opt-In/Out</a></h4>
 
 
-## 💼 Principais Tecnologias utilizadas
+## 💼 Tecnologias utilizadas:
 - Python
 - Java
 - Spring Boot
@@ -30,11 +30,11 @@
 - JavaFx
 - Angular
 
-## 🦄 Autora<br>
-Caroline Paz de Sousa 💻
+## Autor:<br>
+Wilson Amore Vieira Filho 💻
 <br> </br>
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/CarolPaz)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ZVIEWIL)
 <br> </br>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-sousa-53a27972/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/wilson-amore-vieira-filho-7a4420183)
 
 
