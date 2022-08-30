@@ -7,7 +7,7 @@
 </h4>
 
 <br></br>
-![image](https://user-images.githubusercontent.com/61089745/159131375-247b3b42-6052-41d3-b754-644e0e54d6da.png)
+![Imagem de apresentação](https://user-images.githubusercontent.com/54503903/187323556-0ff8156a-d16d-434d-a528-a288d432226a.png)
 
 
 
